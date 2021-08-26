@@ -1,0 +1,29 @@
+_‹%a<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:535;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2021-06-18 16:47:17";s:13:"post_date_gmt";s:19:"2021-06-18 16:47:17";s:12:"post_content";s:4929:"<h5>24/7 patrol</h5>		
+			<h3>INDUSTRIAL PATROL</h3>		
+			<a href="http://dev.247patrol.interactiveworkers.com/request-a-quote/" role="button">
+						REQUEST A QUOTE
+					</a>
+			<h2>24/7 PATROL FOR INDUSTRIES</h2>		
+		<p>These facilities require many complex services, demanding the coordinated efforts of multiple security patrol officers.</p><p><br></p>
+<p>We help you optimize the security of your construction site or any other place.&nbsp;</p>		
+															<img src="http://dev.247patrol.interactiveworkers.com/wp-content/uploads/elementor/thumbs/logo-blanco-pauco83zs9dx5rime4sn6kpc3lk26s350pg7k353hw.png" title="logo blanco" alt="logo blanco" />															
+			<h3>Need help? Call our 24/7  incident response line (877) 482-7343</h3>		
+			<h4>Industrial Areas</h4>		
+															<img width="640" height="426" src="http://dev.247patrol.interactiveworkers.com/wp-content/uploads/2021/06/building-768815_1280-1024x682.jpg" alt="" loading="lazy" srcset="http://dev.247patrol.interactiveworkers.com/wp-content/uploads/2021/06/building-768815_1280-1024x682.jpg 1024w, http://dev.247patrol.interactiveworkers.com/wp-content/uploads/2021/06/building-768815_1280-300x200.jpg 300w, http://dev.247patrol.interactiveworkers.com/wp-content/uploads/2021/06/building-768815_1280-768x512.jpg 768w, http://dev.247patrol.interactiveworkers.com/wp-content/uploads/2021/06/building-768815_1280.jpg 1280w" sizes="(max-width: 640px) 100vw, 640px" />															
+			<h2>Docks &amp; Marina</h2>		
+		<p>Industrial Areas</p>		
+															<img width="640" height="426" src="http://dev.247patrol.interactiveworkers.com/wp-content/uploads/2021/06/worker-5736096_1280-1024x682.jpg" alt="" loading="lazy" srcset="http://dev.247patrol.interactiveworkers.com/wp-content/uploads/2021/06/worker-5736096_1280-1024x682.jpg 1024w, http://dev.247patrol.interactiveworkers.com/wp-content/uploads/2021/06/worker-5736096_1280-300x200.jpg 300w, http://dev.247patrol.interactiveworkers.com/wp-content/uploads/2021/06/worker-5736096_1280-768x512.jpg 768w, http://dev.247patrol.interactiveworkers.com/wp-content/uploads/2021/06/worker-5736096_1280.jpg 1280w" sizes="(max-width: 640px) 100vw, 640px" />															
+			<h2>Construction Site</h2>		
+		<p>Industrial Areas</p>		
+															<img width="640" height="426" src="http://dev.247patrol.interactiveworkers.com/wp-content/uploads/2021/06/jetty-677698_1280-1024x682.jpg" alt="" loading="lazy" srcset="http://dev.247patrol.interactiveworkers.com/wp-content/uploads/2021/06/jetty-677698_1280-1024x682.jpg 1024w, http://dev.247patrol.interactiveworkers.com/wp-content/uploads/2021/06/jetty-677698_1280-300x200.jpg 300w, http://dev.247patrol.interactiveworkers.com/wp-content/uploads/2021/06/jetty-677698_1280-768x512.jpg 768w, http://dev.247patrol.interactiveworkers.com/wp-content/uploads/2021/06/jetty-677698_1280.jpg 1280w" sizes="(max-width: 640px) 100vw, 640px" />															
+			<h2>Manufacturing</h2>		
+		<p>Industrial Areas</p>		
+															<img width="640" height="416" src="http://dev.247patrol.interactiveworkers.com/wp-content/uploads/2021/06/three-3085368_1280-1024x666.jpg" alt="" loading="lazy" srcset="http://dev.247patrol.interactiveworkers.com/wp-content/uploads/2021/06/three-3085368_1280-1024x666.jpg 1024w, http://dev.247patrol.interactiveworkers.com/wp-content/uploads/2021/06/three-3085368_1280-300x195.jpg 300w, http://dev.247patrol.interactiveworkers.com/wp-content/uploads/2021/06/three-3085368_1280-768x500.jpg 768w, http://dev.247patrol.interactiveworkers.com/wp-content/uploads/2021/06/three-3085368_1280.jpg 1280w" sizes="(max-width: 640px) 100vw, 640px" />															
+			<h2>Research Facilities</h2>		
+		<p>Industrial Areas</p>		
+															<img width="640" height="360" src="http://dev.247patrol.interactiveworkers.com/wp-content/uploads/2021/06/solar-panel-1393880_640.png" alt="" loading="lazy" srcset="http://dev.247patrol.interactiveworkers.com/wp-content/uploads/2021/06/solar-panel-1393880_640.png 640w, http://dev.247patrol.interactiveworkers.com/wp-content/uploads/2021/06/solar-panel-1393880_640-300x169.png 300w" sizes="(max-width: 640px) 100vw, 640px" />															
+			<h2>Parking lots</h2>		
+		<p>Industrial Areas</p>		
+															<img width="640" height="426" src="http://dev.247patrol.interactiveworkers.com/wp-content/uploads/2021/06/man-2562325_1280-1024x682.jpg" alt="" loading="lazy" srcset="http://dev.247patrol.interactiveworkers.com/wp-content/uploads/2021/06/man-2562325_1280-1024x682.jpg 1024w, http://dev.247patrol.interactiveworkers.com/wp-content/uploads/2021/06/man-2562325_1280-300x200.jpg 300w, http://dev.247patrol.interactiveworkers.com/wp-content/uploads/2021/06/man-2562325_1280-768x512.jpg 768w, http://dev.247patrol.interactiveworkers.com/wp-content/uploads/2021/06/man-2562325_1280.jpg 1280w" sizes="(max-width: 640px) 100vw, 640px" />															
+			<h2>Solar Energy</h2>		
+		<p>Industrial Areas</p>";s:10:"post_title";s:10:"Industrial";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:6:"closed";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:10:"industrial";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2021-08-06 16:07:50";s:17:"post_modified_gmt";s:19:"2021-08-06 16:07:50";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:39:"http://localhost/247patrol/?page_id=535";s:10:"menu_order";i:0;s:9:"post_type";s:4:"page";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}
