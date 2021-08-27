@@ -1,4 +1,4 @@
-¿Ó#a<?php exit; ?>a:1:{s:7:"content";a:2:{s:17:"_wp_attached_file";a:1:{i:0;s:19:"2021/06/padlock.svg";}s:21:"_elementor_inline_svg";a:1:{i:0;s:2076:"<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Capa_1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+‘Ø'a<?php exit; ?>a:1:{s:7:"content";a:2:{s:17:"_wp_attached_file";a:1:{i:0;s:19:"2021/06/padlock.svg";}s:21:"_elementor_inline_svg";a:1:{i:0;s:2076:"<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Capa_1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
 <g>
 	<g>
 		<path d="M510.413,129.292c-3.705-7.409-12.713-10.413-20.124-6.708l-60,30c-7.41,3.705-10.413,12.715-6.708,20.125    c3.704,7.409,12.713,10.413,20.124,6.708l60-30C511.115,145.712,514.118,136.702,510.413,129.292z"></path>

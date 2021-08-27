@@ -1,4 +1,4 @@
-†'a<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":23:{s:2:"ID";s:4:"2545";s:11:"post_author";s:1:"2";s:9:"post_date";s:19:"2021-08-17 16:50:42";s:13:"post_date_gmt";s:19:"2021-08-17 16:50:42";s:12:"post_content";s:2751:"<!-- wp:paragraph -->
+Ó)a<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":23:{s:2:"ID";s:4:"2545";s:11:"post_author";s:1:"2";s:9:"post_date";s:19:"2021-08-17 16:50:42";s:13:"post_date_gmt";s:19:"2021-08-17 16:50:42";s:12:"post_content";s:2751:"<!-- wp:paragraph -->
 <p><strong>24/7 Patrol</strong> offers you a huge variety when it comes to services for your business, but that is not the only thing we are recognized for.</p>
 <!-- /wp:paragraph -->
 

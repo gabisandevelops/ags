@@ -1,4 +1,4 @@
-‡Ã'a<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:1013;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2021-07-01 16:14:13";s:13:"post_date_gmt";s:19:"2021-07-01 16:14:13";s:12:"post_content";s:1978:"@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;600;700;800&display=swap');
+%)a<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:1013;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2021-07-01 16:14:13";s:13:"post_date_gmt";s:19:"2021-07-01 16:14:13";s:12:"post_content";s:1978:"@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;600;700;800&display=swap');
 
 
 div.wpforms-container-full .wpforms-form .wpforms-field-label {

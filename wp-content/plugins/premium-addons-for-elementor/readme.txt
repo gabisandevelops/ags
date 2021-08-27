@@ -5,7 +5,7 @@ Donate Link: https://premiumaddons.com/?utm_source=wp-repo&utm_medium=link&utm_c
 Requires at least: 5.0
 Tested Up To: 5.8
 Requires PHP: 5.4
-Stable Tag: 4.5.0
+Stable Tag: 4.5.2
 License: GPL v3.0
 License URI: https://opensource.org/licenses/GPL-3.0
 
@@ -194,6 +194,15 @@ Premium Addons for Elementor is 100% Ads Free, Ads can only be detected from You
 14. Premium Progress Bar Widget for Elementor
 
 == Changelog ==
+
+= 4.5.2 =
+
+- Tweak: PHP Code refactored for better performance and security.
+
+= 4.5.1 =
+
+- Tweak: Added new devices added in Elementor Custom Breakpoints to Equal Height feature.
+- Tweak: Code refactored for better performance and security.
 
 = 4.5.0 =
 

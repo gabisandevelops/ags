@@ -38,6 +38,13 @@ class Admin_Notices {
 	private static $papro = 'premium-addons-pro';
 
 	/**
+	 * Notices Keys
+	 *
+	 * @var notices
+	 */
+	private static $notices = null;
+
+	/**
 	 * Constructor for the class
 	 */
 	public function __construct() {
@@ -51,6 +58,11 @@ class Admin_Notices {
 		add_action( 'wp_ajax_pa_reset_admin_notice', array( $this, 'reset_admin_notice' ) );
 
 		add_action( 'wp_ajax_pa_dismiss_admin_notice', array( $this, 'dismiss_admin_notice' ) );
+
+		self::$notices = array(
+			'trustpilot_notice',
+			'pa-review',
+		);
 
 	}
 
@@ -315,6 +327,15 @@ class Admin_Notices {
 			true
 		);
 
+		wp_localize_script(
+			'pa-notice',
+			'PaNoticeSettings',
+			array(
+				'ajaxurl' => esc_url( admin_url( 'admin-ajax.php' ) ),
+				'nonce'   => wp_create_nonce( 'pa-notice-nonce' ),
+			)
+		);
+
 	}
 
 	/**
@@ -327,9 +348,15 @@ class Admin_Notices {
 	 */
 	public function reset_admin_notice() {
 
+		check_ajax_referer( 'pa-notice-nonce', 'nonce' );
+
+		if ( ! current_user_can( 'install_plugins' ) ) {
+			wp_send_json_error();
+		}
+
 		$key = isset( $_POST['notice'] ) ? $_POST['notice'] : '';
 
-		if ( ! empty( $key ) ) {
+		if ( ! empty( $key ) && in_array( $key, self::$notices, true ) ) {
 
 			$cache_key = 'premium_notice_' . PREMIUM_ADDONS_VERSION;
 
@@ -355,9 +382,15 @@ class Admin_Notices {
 	 */
 	public function dismiss_admin_notice() {
 
+		check_ajax_referer( 'pa-notice-nonce', 'nonce' );
+
+		if ( ! current_user_can( 'install_plugins' ) ) {
+			wp_send_json_error();
+		}
+
 		$key = isset( $_POST['notice'] ) ? $_POST['notice'] : '';
 
-		if ( ! empty( $key ) ) {
+		if ( ! empty( $key ) && in_array( $key, self::$notices, true ) ) {
 
 			update_option( $key, '1' );
 

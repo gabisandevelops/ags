@@ -1,4 +1,4 @@
-ˆÃ'a<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:1730;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2021-07-16 15:40:07";s:13:"post_date_gmt";s:19:"2021-07-16 15:40:07";s:12:"post_content";s:3189:"<h5>24/7 patrol</h5>		
+%)a<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:1730;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2021-07-16 15:40:07";s:13:"post_date_gmt";s:19:"2021-07-16 15:40:07";s:12:"post_content";s:3189:"<h5>24/7 patrol</h5>		
 			<h2>Welcome to our blog </h2>		
 			<a href="http://dev.247patrol.interactiveworkers.com/request-a-quote/" role="button">
 						REQUEST A QUOTE

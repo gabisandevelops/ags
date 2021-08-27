@@ -1,4 +1,4 @@
-‡Ã'a<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:1469;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2021-07-13 16:53:19";s:13:"post_date_gmt";s:19:"2021-07-13 16:53:19";s:12:"post_content";s:3686:"<h4><p style="font-size:1rem;"> Call us: <a href= tel:8337678887 style="color:#fff;"> (833) 767-8887</a></p> </h4>		
+%)a<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:1469;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2021-07-13 16:53:19";s:13:"post_date_gmt";s:19:"2021-07-13 16:53:19";s:12:"post_content";s:3686:"<h4><p style="font-size:1rem;"> Call us: <a href= tel:8337678887 style="color:#fff;"> (833) 767-8887</a></p> </h4>		
 			<h4><p style="font-size:1rem;"> Email us: <a href= "mailto: info@247patrol.com" style="color:#fff;"> info@247patrol.com</a></p> </h4>		
 					<a href="https://www.facebook.com/247patrolinc" target="_blank" rel="noopener">
 						Facebook

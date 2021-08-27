@@ -1,1 +1,1 @@
-zH%a<?php exit; ?>a:1:{s:7:"content";s:142:"a:2:{i:0;s:61:"premium-addons-for-elementor/premium-addons-for-elementor.php";i:1;s:51:"header-footer-elementor/header-footer-elementor.php";}";}
+Ü)a<?php exit; ?>a:1:{s:7:"content";s:142:"a:2:{i:0;s:61:"premium-addons-for-elementor/premium-addons-for-elementor.php";i:1;s:51:"header-footer-elementor/header-footer-elementor.php";}";}

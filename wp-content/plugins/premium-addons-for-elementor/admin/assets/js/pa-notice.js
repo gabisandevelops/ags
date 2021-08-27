@@ -5,7 +5,6 @@
 
     var adminNotices = {
         'trustpilot': 'trustpilot_notice',
-        'black-friday': 'papro_new_bf_notice'
     };
 
     if (undefined !== notice) {
@@ -22,7 +21,8 @@
                         type: 'POST',
                         data: {
                             action: 'pa_reset_admin_notice',
-                            notice: $noticeWrap.data('notice')
+                            notice: $noticeWrap.data('notice'),
+                            nonce: PaNoticeSettings.nonce,
                         }
                     }
                 );
@@ -46,7 +46,8 @@
                         type: 'POST',
                         data: {
                             action: 'pa_dismiss_admin_notice',
-                            notice: adminNotices[noticeID]
+                            notice: adminNotices[noticeID],
+                            nonce: PaNoticeSettings.nonce,
                         },
                         success: function (res) {
                             console.log(res);

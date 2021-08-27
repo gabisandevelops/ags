@@ -1,4 +1,4 @@
-†'a<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":23:{s:2:"ID";s:4:"2424";s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2021-07-29 16:23:41";s:13:"post_date_gmt";s:19:"2021-07-29 16:23:41";s:12:"post_content";s:2139:"<!-- wp:paragraph -->
+Ó)a<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":23:{s:2:"ID";s:4:"2424";s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2021-07-29 16:23:41";s:13:"post_date_gmt";s:19:"2021-07-29 16:23:41";s:12:"post_content";s:2139:"<!-- wp:paragraph -->
 <p><strong>24/7 Patrol</strong> has provided an outstanding service to all our clients indeed, working hard to deliver excellent results and a trustful team of professionals.</p>
 <!-- /wp:paragraph -->
 

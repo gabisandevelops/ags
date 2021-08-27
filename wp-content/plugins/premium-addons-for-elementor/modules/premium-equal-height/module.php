@@ -123,6 +123,15 @@ class Module {
 	 */
 	public function register_controls( $element ) {
 
+		$has_custom_breakpoints = \Elementor\Plugin::$instance->breakpoints->has_custom_breakpoints();
+
+		$extra_devices = ! $has_custom_breakpoints ? array() : array(
+			'widescreen'   => __( 'Widescreen', 'premium-addons-pro' ),
+			'laptop'       => __( 'Laptop', 'premium-addons-pro' ),
+			'tablet_extra' => __( 'Tablet Extra', 'premium-addons-pro' ),
+			'mobile_extra' => __( 'Mobile Extra', 'premium-addons-pro' ),
+		);
+
 		$element->start_controls_section(
 			'section_premium_eq_height',
 			array(
@@ -204,10 +213,13 @@ class Module {
 				'label'       => __( 'Enable Equal Height on', 'premium-addons-for-elementor' ),
 				'type'        => Controls_Manager::SELECT2,
 				'multiple'    => true,
-				'options'     => array(
-					'desktop' => __( 'Desktop', 'premium-addons-for-elementor' ),
-					'tablet'  => __( 'Tablet', 'premium-addons-for-elementor' ),
-					'mobile'  => __( 'Mobile', 'premium-addons-for-elementor' ),
+				'options'     => array_merge(
+					array(
+						'desktop' => __( 'Desktop', 'premium-addons-pro' ),
+						'tablet'  => __( 'Tablet', 'premium-addons-pro' ),
+						'mobile'  => __( 'Mobile', 'premium-addons-pro' ),
+					),
+					$extra_devices
 				),
 				'label_block' => true,
 				'default'     => array( 'desktop', 'tablet', 'mobile' ),
